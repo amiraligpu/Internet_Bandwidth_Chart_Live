@@ -1,5 +1,5 @@
 # Sources and Credits
-this program developed by help of https://www.python-graph-gallery.com/all-charts/ , https://stackoverflow.com/a/49414499/20157443 and
+this program developed by help of [python graph gallery](https://www.python-graph-gallery.com/all-charts/) , [Arindam in stackoverflow](https://stackoverflow.com/a/49414499/20157443) and
 # Feauturing Program
 a prigram that can shows your internet bandwidth live in a chart.
 # How to Install:
