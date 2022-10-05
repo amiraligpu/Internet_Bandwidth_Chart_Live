@@ -1,8 +1,8 @@
-# Internet_Bandwidth_Chart_Live
-a prigram that can shows your internet bandwidth live in a chart
-# Sources and credits
+# Sources and Credits
 this program developed by help of https://www.python-graph-gallery.com/all-charts/ , https://stackoverflow.com/a/49414499/20157443 and
-# how to install:
+# Feauturing Program
+a prigram that can shows your internet bandwidth live in a chart.
+# How to Install:
 1) Open your cmd/terminal
 2) install pip on your device and make sure to use last version
 3) copy this commands and run them in your cmd/terminal
