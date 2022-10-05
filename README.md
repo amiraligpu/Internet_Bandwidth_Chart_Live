@@ -5,7 +5,7 @@ a prigram that can shows your internet bandwidth live in a chart.
 # How to Install:
 1) Open your cmd/terminal
 2) install pip on your device and make sure to use last version
-3) copy this commands and run them in your cmd/terminal
+3) copy these commands and run them in your cmd/terminal
 
 `pip install ast`
 
