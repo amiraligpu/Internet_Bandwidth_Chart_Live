@@ -18,5 +18,5 @@ a prigram that can shows your internet bandwidth live in a chart.
 `pip install matplotlip`
 
 >if there's a error or several one, maybe it's for that maybe those were in your python filr or you had installed it before. or just report the bug.
-4) copy the code from [here](https://github.com/amiraligpu/Internet_Bandwidth_Chart_Live/blob/main/Sources/winLin) and paste it in your python app
+4) copy the code from [here](https://github.com/amiraligpu/Internet_Bandwidth_Chart_Live/blob/main/Bandwidth%20meter%201.0.0.py) and paste it in your python app
 5) run the code!
