@@ -1,5 +1,5 @@
 # Sources and Credits
-this program developed by help of [NeuralNine in youtube ( Bandwidth meter )](https://youtu.be/O76lnYFvbTU), [python graph gallery](https://www.python-graph-gallery.com/all-charts/) and [Arindam in stackoverflow](https://stackoverflow.com/a/49414499/20157443)
+this program developed by help of [NeuralNine in youtube ( Bandwidth meter )](https://youtu.be/O76lnYFvbTU), [python graph gallery](https://www.python-graph-gallery.com/all-charts/), [Arindam in stackoverflow](https://stackoverflow.com/a/49414499/20157443) and [Using Python Automation to interact with network devices [Tutorial]](https://hub.packtpub.com/using-python-automation-to-interact-with-network-devices-tutorial/)
 # Feauturing Program
 a prigram that can shows your internet bandwidth live in a chart.
 # How to Install:
