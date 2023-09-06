@@ -8,20 +8,15 @@ v3.0.0 ==> Modem/Router tracking added (THIS IS A BETA VERSION) (with netmiko)
 v2.0.0 ==> GUI added (Tkinter)
 # How to Install:
 1) Open your cmd/terminal
-2) install pip on your device and make sure to use last version
+2) Install pip on your device and make sure to use the last version
 3) copy these commands and run them in your cmd/terminal
 
 ```
 pip install ast
-
 pip install ctime
-
 pip install psutil
-
 pip install pandas
-
 pip install matplotlip
-
 ```
 
 >if there's a error or several one, maybe it's for that maybe those were in your python filr or you had installed it before. or just report the bug.
