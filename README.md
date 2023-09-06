@@ -19,6 +19,6 @@ pip install pandas
 pip install matplotlip
 ```
 
->if there's a error or several one, maybe it's for that maybe those were in your python filr or you had installed it before. or just report the bug.
+> If there's an error or several ones, maybe those were in your Python file by default or you had installed it before. If those errors weren’t the said ones, report the bug.
 4) copy the code from [here](https://github.com/amiraligpu/Internet_Bandwidth_Chart_Live/blob/main/Bandwidth%20meter%201.0.0.py) and paste it in your python app
 5) run the code!
